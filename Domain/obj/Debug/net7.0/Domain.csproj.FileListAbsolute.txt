@@ -1,0 +1,12 @@
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\bin\Debug\net7.0\Domain.dll
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\obj\Debug\net7.0\Domain.dll
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Domain\obj\Debug\net7.0\ref\Domain.dll
