@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jQS2HRGh6mfM1NBMPGFYqnigfJ1VFYgMeu9gAUpdbuSRsAOK626Q3HVDkw89e8M4Y55suPi0I0hqaH8n8CbbFw==",
+  "dgSpecHash": "6/q6d//VlQNdLKEtH2+DykxzmzJJDnbdK/fOj3pcRiA33YMfek1BnMRERdxND6iDt20/6+oEbXKMmrQMoB/XyQ==",
   "success": true,
-  "projectFilePath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sofia\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\sofia\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

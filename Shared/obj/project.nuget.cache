@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KUrSXmm3gJLNLGIXkbOvehH/zK+EvPR8mWECaFd+vKFtqp2l5kZRqho43o6UndETQBvdBJhVX5QAVdaw75Xxgw==",
+  "dgSpecHash": "KXk9R0u72xuHDcjcHANQ94XQ8RdYmw8XZTMPyfnAP2jAaWB76X6s8E1IrShGRbakXV+5mOV3bTSDjCiAa/61Cw==",
   "success": true,
-  "projectFilePath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj",
+  "projectFilePath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sofia\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\sofia\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

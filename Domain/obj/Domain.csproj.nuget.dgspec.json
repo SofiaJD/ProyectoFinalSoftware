@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {}
+    "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {
+    "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj": {}
+    "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj": {
+    "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\obj\\",
+        "outputPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj"
+              "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj"
               }
             }
           }
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {
+    "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj": {
+    "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -195,11 +195,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj": {
-                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj"
+              "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\Application.csproj"
               },
-              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj"
+              "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj"
               }
             }
           }

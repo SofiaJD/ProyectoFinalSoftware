@@ -4329,11 +4329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4353,14 +4353,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj": {
-              "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj"
+            "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\Application.csproj"
             },
-            "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj"
+            "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Persistence\\Persistence.csproj"
             },
-            "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj"
+            "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Shared\\Shared.csproj"
             }
           }
         }

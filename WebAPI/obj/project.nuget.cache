@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxmeQN0qAYlmPbbEHdi//y4UDTXmpF5H4R/ohoN//NqVihe1GTQLZF6DDosJLHkqTjRMPrZPUA0RJWEzCjHPwA==",
+  "dgSpecHash": "Z+1DOyx/zdcjKm1aYy8VBPHEIffR4DXh3GJmSqbCCZoVS9y1eQCM+GEkttnReqWQe5Yh3FejMJGagyORzHt2mw==",
   "success": true,
-  "projectFilePath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sofia\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\sofia\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

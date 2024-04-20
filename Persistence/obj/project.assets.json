@@ -3430,11 +3430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3454,11 +3454,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj": {
-              "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj"
+            "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Application\\Application.csproj"
             },
-            "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj"
+            "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\sofia\\OneDrive\\Desktop\\Repo\\Proyecto Final Software\\Domain\\Domain.csproj"
             }
           }
         }
