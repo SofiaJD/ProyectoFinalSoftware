@@ -1,0 +1,63 @@
+<<<<<<< HEAD
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Application.deps.json
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Application.dll
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Application.pdb
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Domain.dll
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Domain.pdb
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.dll
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.pdb
+C:\Cursos de Udemy\c# clases\ProyectoFinalSoftware\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\ref\Application.dll
+=======
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\bin\Debug\net7.0\Application.deps.json
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\bin\Debug\net7.0\Application.dll
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\bin\Debug\net7.0\Application.pdb
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\bin\Debug\net7.0\Domain.dll
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\bin\Debug\net7.0\Domain.pdb
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\Application.dll
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\Application.pdb
+C:\Proyecto Final Software - copia\GestionProyectosAPI\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Application.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Application.dll
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.dll
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\joeld\Downloads\ProyectoFinalSoftware\ProyectoFinalSoftware\Application\obj\Debug\net7.0\ref\Application.dll
+>>>>>>> 925c202b1c5dce8a8c9632721aa6ff6ee076c679
