@@ -1,0 +1,145 @@
+:root
+{
+    --color-principal: #AB51E3;
+    --sombra: rgba(177, 177, 177, .25);
+}
+
+#containerInicio
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 70px;
+}
+
+#containerInicio #containerProyectos
+{
+    overflow: auto;
+    height: 100%;
+}
+
+#containerInicio #containerProyectos h2
+{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+#containerInicio #containerProyectos #listadoProyectos
+{
+    overflow-x: visible;
+    overflow-y: auto;
+    height: 440px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#containerInicio #listadoProyectos::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  #containerInicio #listadoProyectos::-webkit-scrollbar-track {
+    background: #DFDFDF;   
+    border-radius: 10px;
+  }
+  
+  #containerInicio #listadoProyectos::-webkit-scrollbar-thumb {
+    background-color: var(--color-principal);
+    border-radius: 20px; 
+  }
+
+#containerInicio #containerProyectos #listadoProyectos .proyecto
+{
+    border-radius: 15px;
+    box-shadow: 0 4px 20px #6363633e;
+    padding: 0 5px;
+    background-color: rgb(255, 255, 255);
+    width: 95%;
+}
+
+#containerInicio #containerProyectos #listadoProyectos .proyecto > div
+{
+    border-left: 4px solid rgba(193, 137, 228, 0.578);
+    margin: 1px 5px;
+    padding: 0 5px;
+    font-size: 18px;
+}
+
+#containerInicio #containerProyectos #listadoProyectos .proyecto p
+{
+    margin: 8px 5px;
+}
+
+#containerInicio #containerConsultores
+{
+    overflow: auto;
+    height: 100%;
+}
+
+#containerInicio #containerConsultores h2
+{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+#containerInicio #containerConsultores #listadoConsultores
+{
+    overflow-x: visible;
+    overflow-y: auto;
+    height: 440px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#containerInicio #listadoConsultores::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  #containerInicio #listadoConsultores::-webkit-scrollbar-track {
+    background: #DFDFDF;   
+    border-radius: 10px;
+  }
+  
+  #containerInicio #listadoConsultores::-webkit-scrollbar-thumb {
+    background-color: var(--color-principal);
+    border-radius: 20px; 
+  }
+
+#containerInicio #containerConsultores #listadoConsultores .consultor
+{
+    border-radius: 15px;
+    box-shadow: 0 4px 20px #6363633e;
+    padding: 0 5px;
+    background-color: rgb(255, 255, 255);
+    width: 95%;
+}
+
+#containerInicio #containerConsultores #listadoConsultores .consultor > div
+{
+    border-left: 4px solid rgba(193, 137, 228, 0.578);
+    margin: 1px 5px;
+    padding: 0 5px;
+    font-size: 18px;
+}
+
+#containerInicio #containerConsultores #listadoConsultores .consultor p
+{
+    margin: 8px 5px;
+}
+
+
+#containerInicio .nombre 
+{
+    font-weight: 500;
+}
+
+/* #containerInicio #containerConsultores
+{
+    background-color: rgb(183, 167, 198);
+}
+
+#containerInicio #containerProyectos
+{
+    background-color: aqua;
+} */

@@ -10,7 +10,7 @@ namespace Application.Interfaces.Repositories
 {
     public interface IAsignacionRepository 
     {
-        Task<Asignacion> GetByIdAsync(int id);
+        Task<Asignacion> GetByIdAsync(int consultorId, int proyectoId);
         Task AsignarConsultorAProyectoAsync(Asignacion asignacion);
         Task ActualizarAsignacionAsync(Asignacion asignacion);
         Task EliminarAsignacionAsync(Asignacion asignacion);

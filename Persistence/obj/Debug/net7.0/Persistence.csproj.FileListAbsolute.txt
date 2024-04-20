@@ -17,3 +17,42 @@ C:\Proyecto Final Software - copia\GestionProyectosAPI\Persistence\obj\Debug\net
 C:\Proyecto Final Software - copia\GestionProyectosAPI\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Proyecto Final Software - copia\GestionProyectosAPI\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
 C:\Proyecto Final Software - copia\GestionProyectosAPI\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Application.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Application.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Application.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Domain.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Application.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.sourcelink.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persiste.61C28332.Up2Date
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Persistence\obj\Debug\net7.0\ref\Persistence.dll

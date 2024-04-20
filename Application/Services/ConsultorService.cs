@@ -62,14 +62,22 @@ namespace Application.Services
 
         public async Task UpdateAsync(SaveConsultorViewModel vm)
         {
-            Consultor consultor = new();
-            consultor.Id = vm.Id;
-            consultor.Nombre = vm.Nombre;
-            consultor.Email = vm.Email;
-            consultor.Telefono = vm.Telefono;
-            consultor.Especialidad = vm.Especialidad;
+            var existingConsultor = await _consultorRepository.GetByIdAsync(vm.Id);
 
-            await _consultorRepository.UpdateAsync(consultor);
+            if (existingConsultor == null)
+            {
+                // Manejar el caso en el que la entidad no existe
+                throw new Exception("La entidad Consultor no existe.");
+            }
+
+            // Actualizar las propiedades de la entidad existente
+            existingConsultor.Nombre = vm.Nombre;
+            existingConsultor.Email = vm.Email;
+            existingConsultor.Telefono = vm.Telefono;
+            existingConsultor.Especialidad = vm.Especialidad;
+
+            // Marcar la entidad como modificada y guardar los cambios
+            await _consultorRepository.UpdateAsync(existingConsultor);
         }
 
         public async Task<bool> IsEmailRegisteredAsync(string email)

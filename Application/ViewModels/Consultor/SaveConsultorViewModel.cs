@@ -26,7 +26,5 @@ namespace Application.ViewModels.Consultor
         [Required(ErrorMessage = "El consultor debe tener una especialidad")]
         [DataType(DataType.Text)]
         public string? Especialidad { get; set; }
-
-        public List<int>? IdsAsignaciones { get; set; }
     }
 }

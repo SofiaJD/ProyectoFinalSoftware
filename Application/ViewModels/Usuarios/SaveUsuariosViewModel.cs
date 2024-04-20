@@ -43,5 +43,6 @@ namespace Application.ViewModels.Usuarios
         [Required(ErrorMessage = "Debe ingresar una Contrasenia")]
         [DataType(DataType.Password)]
         public string? ConfirmPassword { get; set; }
+
     }
 }

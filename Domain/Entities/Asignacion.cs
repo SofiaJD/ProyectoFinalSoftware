@@ -9,7 +9,7 @@ namespace Domain.Entities
 {
     public class Asignacion : BaseEntity
     {
-        public int ConsultorID { get; set; }
+        public int IdConsultor { get; set; }
         public virtual Consultor? Consultor { get; set; }
         public int ProyectoID { get; set; }
         public virtual Proyectos? Proyecto { get; set; }

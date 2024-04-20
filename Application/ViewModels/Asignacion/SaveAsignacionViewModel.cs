@@ -13,7 +13,7 @@ namespace Application.ViewModels.Asignacion
 
         [Required(ErrorMessage = "Debe ingresar un ID de Consultor")]
         [DataType(DataType.Text)]
-        public int ConsultorID { get; set; }
+        public int IdConsultor { get; set; }
 
         [Required(ErrorMessage = "Debe ingresar un ID de proyecto")]
         [DataType(DataType.Text)]

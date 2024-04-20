@@ -1,0 +1,290 @@
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\appsettings.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.exe
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Humanizer.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MailKit.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MediatR.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MimeKit.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Application.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Domain.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Persistence.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Shared.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Application.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Persistence.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Shared.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Domain.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.exe
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MailKit.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MediatR.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MimeKit.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Application.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Domain.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Persistence.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Shared.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Application.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Persistence.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Shared.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Domain.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.exe
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MailKit.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MediatR.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\MimeKit.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Application.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Domain.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Persistence.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Shared.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Application.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Persistence.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Shared.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\bin\Debug\net8.0\Domain.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+C:\Proyecto final TDS\ProyectoFinalSoftware\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll

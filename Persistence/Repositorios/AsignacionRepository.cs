@@ -41,7 +41,7 @@ namespace Persistence.Repositorios
         public async Task<List<Asignacion>> ListarAsignacionesPorConsultorAsync(int consultorId)
         {
            return await _dbContext.Asignacion
-             .Where(a => a.ConsultorID == consultorId)
+             .Where(a => a.IdConsultor == consultorId)
              .ToListAsync();
         }
 
@@ -51,9 +51,9 @@ namespace Persistence.Repositorios
              .Where(a => a.ProyectoID == proyectoId)
              .ToListAsync();
         }
-        public async Task<Asignacion> GetByIdAsync(int id)
+        public async Task<Asignacion> GetByIdAsync(int consultorId, int proyectoId)
         {
-            return await _dbContext.Asignacion.FindAsync(id);
+            return await _dbContext.Asignacion.FindAsync(consultorId, proyectoId);
         }
     }
 }

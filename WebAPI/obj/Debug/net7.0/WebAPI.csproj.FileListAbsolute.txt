@@ -88,3 +88,184 @@ C:\Proyecto Final Software - copia\GestionProyectosAPI\WebAPI\obj\Debug\net7.0\r
 C:\Proyecto Final Software - copia\GestionProyectosAPI\WebAPI\obj\Debug\net7.0\WebAPI.pdb
 C:\Proyecto Final Software - copia\GestionProyectosAPI\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
 C:\Proyecto Final Software - copia\GestionProyectosAPI\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Application.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Domain.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Persistence.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Persistence.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Domain.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CopyComplete
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\Users\USUARIO 15\source\repos\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Application.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Domain.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Persistence.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Application.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Persistence.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\bin\Debug\net7.0\Domain.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.sourcelink.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.csproj.Up2Date
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll

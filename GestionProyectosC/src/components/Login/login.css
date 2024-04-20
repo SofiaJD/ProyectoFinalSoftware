@@ -1,0 +1,180 @@
+/* Fuente */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Variables */
+:root
+{
+    --color-principal: #AB51E3;
+    --sombra: rgba(177, 177, 177, .25);
+}
+
+body
+{
+    font-family: 'Montserrat';
+}
+
+#loginContainer #figuraDecorativa
+{
+    position: absolute;
+    width: 410px;
+    height: 450px;
+    left: 770px;
+    top: 165px;
+}
+
+#loginContainer #formContainer 
+{
+    position: relative;
+    z-index: 1;
+    background-color: white;
+    border-radius: 30px;
+    width: 850px;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    box-shadow: 0 4px 40px rgba(0, 0, 0, 0.20);
+}
+
+#loginContainer #formContainer #info
+{
+    background-color: var(--color-principal);
+    border-radius: 30px 0px 0 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 0 40px;
+}
+
+#loginContainer #formContainer #info h1
+{
+    font-weight: 800;
+    font-size: 40px;
+}
+
+#loginContainer #formContainer #info p
+{
+    font-weight: 200;
+    font-size: 20px;
+}
+
+#loginContainer #formContainer #form
+{
+    position: relative;
+    padding: 20px 30px;
+    text-align: center;
+    z-index: 2;
+}
+
+#loginContainer #formContainer h2
+{
+    font-weight: 700;
+    font-size: 28px;
+    margin-bottom: 40px;
+}
+
+#loginContainer #formContainer #form #login
+{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+#loginContainer #formContainer #form label
+{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#loginContainer #formContainer #form label:first-child
+{
+    margin-bottom: 50px;
+}
+
+#loginContainer #formContainer #form input
+{
+    border: none;
+    border-bottom: 1.2px solid rgb(27, 27, 27);
+    width: 90%;
+    font-size: 16px;
+    font-weight: 400;
+    outline: none;
+    margin-top: 10px;
+    font-family: 'Montserrat';
+}
+
+#loginContainer #formContainer #form input:focus
+{
+    border-bottom: 1.5px solid var(--color-principal);
+}
+
+#loginContainer #formContainer #form label #btnRecuperarContraseña
+{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--color-principal);
+    border: none;
+    margin: 0;
+    margin-top: 5px;
+    padding: 0;
+}
+
+#loginContainer #formContainer #form label #btnRecuperarContraseña:hover
+{
+    background-color: transparent;
+    color: #9434cf;
+}
+
+#loginContainer #formContainer #form button
+{
+    border: 1.5px solid var(--color-principal);
+    border-radius: 20px;
+    padding: 8px 16px;
+    background-color: white;
+    font-weight: 500;
+    font-size: 16px;
+    font-family: 'Montserrat';
+    margin: 30px 0;
+}
+
+#loginContainer #formContainer #form button:hover
+{
+    background-color: var(--color-principal);
+    color: white;
+    font-weight: 600;
+}
+
+#loginContainer #formContainer #form p
+{
+    font-weight: 300;
+    font-size: 14px;
+}
+
+#loginContainer #formContainer #form p a
+{
+    font-weight: 500;
+    color: var(--color-principal);
+}
+
+@media only screen and (max-width: 950px) {
+    #loginContainer #formContainer 
+    {
+        width: 700px;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    #loginContainer #formContainer 
+    {
+        grid-template-columns: 1fr;
+        width: 70%;
+    }
+
+    #loginContainer #formContainer #info
+    {
+        border-radius: 30px 30px 0 0;
+    }
+}

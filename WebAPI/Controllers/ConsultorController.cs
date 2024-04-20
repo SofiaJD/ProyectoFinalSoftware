@@ -104,18 +104,23 @@ namespace WebAPI.Controllers
             }
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> UpdateConsultor([FromBody] SaveConsultorViewModel vm)
+        public async Task<IActionResult> UpdateConsultor(int id, [FromBody] SaveConsultorViewModel vm)
         {
             try
             {
                 if (!ModelState.IsValid)
                 {
                     return BadRequest(ModelState);
+                }
+
+                if (id != vm.Id)
+                {
+                    return BadRequest("ID en el cuerpo de la solicitud no coincide con el ID de la ruta");
                 }
 
                 if (await _consultorService.IsEmailRegisteredForOtherConsultorAsync(vm.Id, vm.Email))

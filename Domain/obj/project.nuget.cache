@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AVCWw68mC6JdEV4mLagdz+fFSXk8ZwVkZ26r5UnISjIKEF5byCTizUkPI2V95KXRSTRdI9cAkvxxzqIVIlpFow==",
+  "dgSpecHash": "JFk34MPWQc4HEf9D1AChELOO2o4xY9D7CJH3fHdYa10KmkFKmwYwL6URiQhTFfMNxkt19HI3zpD6tdb8HS7Lsg==",
   "success": true,
-  "projectFilePath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

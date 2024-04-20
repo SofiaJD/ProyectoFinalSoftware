@@ -1,0 +1,193 @@
+#registroContainer #figuraDecorativa
+{
+    position: absolute;
+    width: 410px;
+    height: 450px;
+    left: 60px;
+    top: 35px;
+}
+
+#registroContainer #formContainer 
+{
+    position: relative;
+    z-index: 1;
+    background-color: white;
+    border-radius: 30px;
+    width: 950px;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    box-shadow: 0 4px 40px rgba(0, 0, 0, 0.20);
+}
+
+#registroContainer #formContainer #info
+{
+    background-color: var(--color-principal);
+    border-radius: 0 30px 30px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 0 10px;
+    grid-column: 2;
+    grid-row: 1 / span 2;
+}
+
+#registroContainer #formContainer #info h1
+{
+    font-weight: 800;
+    font-size: 40px;
+}
+
+#registroContainer #formContainer #info p
+{
+    font-weight: 200;
+    font-size: 20px;
+}
+
+#registroContainer #formContainer #form
+{
+    position: relative;
+    padding: 15px 30px;
+    text-align: center;
+    z-index: 2;
+}
+
+#registroContainer #formContainer h2
+{
+    font-weight: 700;
+    font-size: 28px;
+    margin-bottom: 45px;
+}
+
+#registroContainer #formContainer #form #registro
+{
+    grid-column: 1;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+
+}
+
+#registroContainer #formContainer #form #registro > div
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+#registroContainer #formContainer #form #registro > div:last-child
+{
+    margin-bottom: 20px;
+}
+
+#registroContainer #formContainer #form label
+{
+    font-weight: 500;
+    font-size: 18px;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+#registroContainer #formContainer #form input
+{
+    border: none;
+    border-bottom: 1.2px solid rgb(27, 27, 27);
+    width: 90%;
+    font-size: 16px;
+    font-weight: 400;
+    outline: none;
+    margin-top: 10px;
+    font-family: 'Montserrat';
+}
+
+#registroContainer #formContainer #form input:focus
+{
+    border-bottom: 1.5px solid var(--color-principal);
+}
+
+#registroContainer #formContainer #form label a 
+{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--color-principal);
+}
+
+#registroContainer #formContainer #form button
+{
+    border: 1.5px solid var(--color-principal);
+    border-radius: 20px;
+    padding: 8px 16px;
+    background-color: white;
+    font-weight: 500;
+    font-size: 16px;
+    font-family: 'Montserrat';
+    margin: 15px 0;
+}
+
+#registroContainer #formContainer #form button:hover
+{
+    background-color: var(--color-principal);
+    color: white;
+    font-weight: 600;
+}
+
+#registroContainer #formContainer #form p
+{
+    font-weight: 300;
+    font-size: 14px;
+}
+
+#registroContainer #formContainer #form p a
+{
+    font-weight: 500;
+    color: var(--color-principal);
+}
+
+@media only screen and (max-width: 1050px) {
+    #registroContainer #formContainer 
+    {
+        width: 800px;
+    }
+}
+
+@media only screen and (max-width: 880px) {
+    #registroContainer #formContainer 
+    {
+        grid-template-columns: 1fr;
+        width: 70%;
+    }
+    
+    #registroContainer #formContainer #info
+    {
+        grid-column: 1;
+    }
+
+    #registroContainer #formContainer #info
+    {
+        border-radius: 30px 30px 0 0;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    #registroContainer #formContainer #form #registro > div
+    {
+        flex-direction: column;
+        margin-bottom: 0;
+    }
+
+    #registroContainer #formContainer #form #registro > div label
+    {
+        margin-bottom: 35px;
+    }
+
+    
+    #registroContainer #formContainer #form #registro > div label:last-child
+    {
+        margin-bottom: 10px;
+    }
+}

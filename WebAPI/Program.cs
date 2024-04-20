@@ -1,5 +1,6 @@
 using Application;
 using Persistence;
+using WebAPI.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,30 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddApplicationLayer();
 builder.Services.AddPersistenceInfrastructure(builder.Configuration);
+builder.Services.AddSession();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddSharedInfrastructure(builder.Configuration);
+builder.Services.AddTransient<ValidateUserSession, ValidateUserSession>();
+builder.Services.AddDistributedMemoryCache();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("NUEVAPOLITICA", app =>
+    {
+        app.AllowAnyOrigin()
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+    });
+});
+
+
+
+builder.Services.AddSession(options =>
+{
+    
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
 
 var app = builder.Build();
@@ -22,7 +47,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseSession();
+
 app.UseHttpsRedirection();
+
+app.UseCors("NUEVAPOLITICA");
 
 app.UseAuthorization();
 

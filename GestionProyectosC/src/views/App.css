@@ -1,0 +1,93 @@
+/* Fuente */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Variables */
+:root
+{
+    --color-principal: #AB51E3;
+    --sombra: rgba(177, 177, 177, .25);
+}
+
+body
+{
+    font-family: 'Montserrat';
+}
+
+header
+{
+  height: 100vh;
+  background-color: white;
+}
+
+header #banner
+{
+  font-family: 'Montserrat';
+  padding-top: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+header #banner #bienvenida
+{
+  padding: 0 30px;
+}
+
+header #banner #bienvenida h1
+{
+  font-size: 80px;
+  font-weight: 900;
+}
+
+
+header #banner #bienvenida p
+{
+  margin-top: -10px;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */

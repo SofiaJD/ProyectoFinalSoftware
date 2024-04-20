@@ -1,17 +1,23 @@
-﻿using Application.Interfaces.Repositorios;
+﻿using Application.DTOs.Email;
+using Application.Helpers;
+using Application.Interfaces.Repositorios;
+using Application.Interfaces.Services;
 using Application.Interfaces.Servicios;
 using Application.ViewModels.Usuarios;
 using Domain.Entities;
+using System.Security.Cryptography;
 
 namespace Application.Services
 {
     public class UsuarioServices : IUsuariosServices
     {
         private readonly IUsuariosRepository _usuariosRepository;
+        private readonly IEmailService _emailService;
 
-        public UsuarioServices(IUsuariosRepository usuariosRepository)
+        public UsuarioServices(IUsuariosRepository usuariosRepository, IEmailService emailService)
         {
             _usuariosRepository = usuariosRepository;
+            _emailService = emailService;
         }
 
 
@@ -69,9 +75,18 @@ namespace Application.Services
             usuarios.Telefono = vm.Telefono;
             usuarios.Password = vm.Password;
             usuarios.RolUsuario = vm.RolUsuario;
+            usuarios.VerificationToken = CreateRandomToken();
+
 
             await _usuariosRepository.AddAsync(usuarios);
+            await _emailService.SendAsync(new EmailRequest
+            {
+                To = usuarios.Email,
+                Subject = "Bienvenido al sistema de QDPROPEEP",
+                Body = $"<!DOCTYPE html>\r\n<html lang=\"es\">\r\n<head>\r\n<meta charset=\"UTF-8\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n<title>Bienvenido al sistema de QDPROPEEP</title>\r\n</head>\r\n<body style=\"font-family: Arial, sans-serif; background-color: #f5f5f5; padding: 20px;\">\r\n\r\n<h1 style=\"color: #333; text-align: center;\">Bienvenido a Nuestro portal web de gestión de proyectos</h1>\r\n<p style=\"color: #666; text-align: center;\">¡Hola, {usuarios.Nombre}! Explora en nuestra web para descubrir todas nuestras funcionalidades.</p>\r\n\r\n</body>\r\n</html>\r\n"
+            });
         }
+
 
         public async Task<UsuariosViewModel> GetByIdAsync(int id)
         {
@@ -103,6 +118,89 @@ namespace Application.Services
                 Telefono = usuarios.Telefono,
                 RolUsuario = usuarios.RolUsuario,
             }).ToList();
+        }
+
+        private string CreateRandomToken()
+        {
+            return Convert.ToHexString(RandomNumberGenerator.GetBytes(4));
+        }
+
+        public async Task<Usuarios> VerifyUser(string Token)
+        {
+            var usuario = await _usuariosRepository.GetByVerificationTokenAsync(Token);
+
+            if (usuario == null)
+            {
+                throw new InvalidOperationException("Token incorrecto");
+            }
+
+
+            await _usuariosRepository.SaveChangesAsync();
+
+            return usuario; // Devuelve el usuario verificado
+        }
+
+        public async Task<bool> ForgotPasswordAsync(string email)
+        {
+            var usuario = await _usuariosRepository.GetUserByEmailAsync(email);
+
+            if (usuario == null)
+            {
+                return false;
+            }
+
+            // Generar un token para restablecer la contraseña
+            var token = CreateRandomToken();
+
+            // Guardar el token en la base de datos
+            usuario.PasswordResetToken = token;
+            usuario.ResetTokenExpires = DateTime.Now.AddHours(1).ToString();
+
+            await _usuariosRepository.SaveChangesAsync();
+
+            try
+            {
+                // Configurar el correo electrónico
+                var emailRequest = new EmailRequest
+                {
+                    To = email,
+                    Subject = "Restablecer contraseña",
+                    Body = $"<!DOCTYPE html>\r\n<html lang=\"es\">\r\n<head>\r\n<meta charset=\"UTF-8\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n<title>Restablecer contraseña</title>\r\n</head>\r\n<body style=\"font-family: Arial, sans-serif; background-color: #f5f5f5; padding: 20px;\">\r\n\r\n<h1 style=\"color: #333; text-align: center;\">Restablecer contraseña</h1>\r\n<p style=\"color: #666; text-align: center;\">Utiliza este token para restablecer tu contraseña: {token}</p>\r\n\r\n</body>\r\n</html>\r\n"
+                };
+
+                // Enviar el correo electrónico
+                await _emailService.SendAsync(emailRequest);
+            }
+            catch (Exception ex)
+            {
+                // Manejar cualquier error al enviar el correo electrónico
+                Console.WriteLine($"Error al enviar el correo electrónico: {ex.Message}");
+                // En caso de error al enviar el correo, puedes considerar revertir los cambios en la base de datos
+                return false;
+            }
+
+            return true;
+        }
+
+        public async Task<bool> ResetPasswordAsync(ResetPasswordViewModel resetPasswordViewModel)
+        {
+            var usuario = await _usuariosRepository.GetByResetTokenAsync(resetPasswordViewModel.Token);
+
+            if (usuario == null )
+            {
+                return false;
+            }
+
+            // Encriptar la nueva contraseña
+            usuario.Password = PasswordEncryptation.ComputeSha256Hash(resetPasswordViewModel.Password);
+
+            // Limpiar los campos de token de restablecimiento de contraseña
+            usuario.PasswordResetToken = null;
+            usuario.ResetTokenExpires = null;
+
+            await _usuariosRepository.SaveChangesAsync();
+
+            return true;
         }
     }
 }

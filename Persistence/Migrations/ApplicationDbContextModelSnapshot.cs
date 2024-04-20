@@ -259,6 +259,12 @@ namespace Persistence.Migrations
                     b.Property<string>("Password")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("PasswordResetToken")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ResetTokenExpires")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("RolUsuario")
                         .HasColumnType("nvarchar(max)");
 
@@ -270,6 +276,9 @@ namespace Persistence.Migrations
 
                     b.Property<string>("UltimaModificacionPor")
                         .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("VerificationToken")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

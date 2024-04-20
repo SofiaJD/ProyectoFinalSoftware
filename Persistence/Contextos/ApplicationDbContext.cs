@@ -49,7 +49,9 @@ namespace Persistence.Contextos
             modelBuilder.Entity<Clientes>().HasKey(c => c.Id);
             modelBuilder.Entity<Tareas>().HasKey(t => t.Id);
             modelBuilder.Entity<Consultor>().HasKey(c => c.Id);
-            modelBuilder.Entity<Asignacion>().HasKey(a => new { a.ConsultorID, a.ProyectoID });
+            modelBuilder.Entity<Asignacion>().HasKey(a => new { a.IdConsultor, a.ProyectoID });
+            modelBuilder.Entity<Asignacion>().HasKey(a => a.Id);
+
             #endregion
 
             #region "Relaciones"
@@ -72,12 +74,12 @@ namespace Persistence.Contextos
 
             // Relación entre Consultor y Proyecto (muchos a muchos)
             modelBuilder.Entity<Asignacion>()
-                .HasKey(a => new { a.ConsultorID, a.ProyectoID });
+                .HasKey(a => new { a.IdConsultor, a.ProyectoID });
 
             modelBuilder.Entity<Asignacion>()
                 .HasOne(a => a.Consultor)
                 .WithMany(c => c.Asignaciones)
-                .HasForeignKey(a => a.ConsultorID);
+                .HasForeignKey(a => a.IdConsultor);
 
             modelBuilder.Entity<Asignacion>()
                 .HasOne(a => a.Proyecto)

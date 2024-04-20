@@ -18,7 +18,7 @@ namespace Domain.Entities
         public Clientes? Cliente { get; set; }  
         public List<Tareas>? Tareas { get; set; }
         public virtual List<Asignacion>? Asignaciones { get; set; }
-        public List<Usuarios> usuarios { get; set; }
+        public List<Usuarios>? usuarios { get; set; }
 
     }
 }

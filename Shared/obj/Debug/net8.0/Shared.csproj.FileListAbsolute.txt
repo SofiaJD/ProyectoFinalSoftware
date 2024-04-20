@@ -1,0 +1,54 @@
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Shared.deps.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Shared.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Shared.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Application.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Domain.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Application.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Domain.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.sourcelink.json
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.csproj.Up2Date
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\refint\Shared.dll
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.pdb
+C:\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Shared.deps.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Shared.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Shared.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Application.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Domain.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Application.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Domain.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.sourcelink.json
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.csproj.Up2Date
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\refint\Shared.dll
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.pdb
+C:\Users\eliezer.ramirez\OneDrive - PROPEEP\Escritorio\ProyectoFinal\ProyectoFinalSoftware\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Shared.deps.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Shared.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Shared.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Application.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Domain.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Application.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\bin\Debug\net8.0\Domain.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.sourcelink.json
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.csproj.Up2Date
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\refint\Shared.dll
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\Shared.pdb
+C:\Proyecto final TDS\ProyectoFinalSoftware\Shared\obj\Debug\net8.0\ref\Shared.dll

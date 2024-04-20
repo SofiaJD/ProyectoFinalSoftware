@@ -12,6 +12,10 @@ namespace Application.Interfaces.Repositorios
     public interface IUsuariosRepository : IGenericRepository<Usuarios>
     {
         Task<Usuarios> LoginAsync(LoginViewModel loginVm);
+        Task<Usuarios> GetUserByEmailAsync(string email);
+        Task<Usuarios> GetByVerificationTokenAsync(string token);
+        Task SaveChangesAsync();
+        Task<Usuarios> GetByResetTokenAsync(string token);
 
     }
 }

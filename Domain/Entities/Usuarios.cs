@@ -11,6 +11,10 @@ namespace Domain.Entities
         public string? Telefono { get; set; }
         public string? RolUsuario { get; set; }
         public string? Password { get; set; }
+
+        public string? PasswordResetToken { get; set; }
+        public string? ResetTokenExpires { get; set; }
+        public string? VerificationToken { get; set; }
         // Relación muchos a muchos con Proyecto
         public List<Proyectos> Proyectos { get; set; }
     } 

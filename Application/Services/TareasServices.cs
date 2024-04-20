@@ -10,10 +10,12 @@ namespace Application.Services
     public class TareasServices : ITareasService
     {
         private readonly ITareasRepository _tareasRepository;
+        private readonly IProyectosRepository _proyectosRepository;
 
-        public TareasServices(ITareasRepository tareasRepository)
+        public TareasServices(ITareasRepository tareasRepository, IProyectosRepository proyectosRepository)
         {
             _tareasRepository = tareasRepository;
+            _proyectosRepository = proyectosRepository;
         }
 
         public async Task AddAsync(SaveTareasViewModel vm)
@@ -25,7 +27,17 @@ namespace Application.Services
             tareas.FechaInicio = vm.FechaInicio;
             tareas.FechaFin = vm.FechaFin;
             tareas.Estado = vm.Estado;
-            tareas.Proyecto.Id = vm.ProyectoID;
+
+            // Obtener el proyecto al que pertenece la tarea
+            var proyecto = await _proyectosRepository.GetByIdAsync(vm.ProyectoID);
+            if (proyecto == null)
+            {
+                // Manejar el caso donde el proyecto no existe
+                throw new Exception("El proyecto especificado no existe.");
+            }
+
+            // Asignar el proyecto a la tarea
+            tareas.Proyecto = proyecto;
 
             await _tareasRepository.AddAsync(tareas);
         }
@@ -40,15 +52,21 @@ namespace Application.Services
         {
             var tareasList = await _tareasRepository.GetAllAsync();
 
-            return tareasList.Select(tareas => new TareasViewModel
+            // Obtener todos los IDs de proyecto únicos
+            var proyectoIds = tareasList.Select(t => t.ProyectoID).Distinct().ToList();
+
+            // Obtener los nombres de proyecto correspondientes a los IDs
+            var proyectoNombres = await _proyectosRepository.GetProyectoNombresByIDsAsync(proyectoIds);
+
+            return tareasList.Select(tarea => new TareasViewModel
             {
-                Id = tareas.Id,
-                Nombre = tareas.Nombre,
-                Descripcion = tareas.Descripcion,
-                FechaInicio = tareas.FechaInicio,
-                FechaFin = tareas.FechaFin,
-                Estado = tareas.Estado,
-                ProyectoNombre= tareas.Proyecto.Nombre
+                Id = tarea.Id,
+                Nombre = tarea.Nombre,
+                Descripcion = tarea.Descripcion,
+                FechaInicio = tarea.FechaInicio,
+                FechaFin = tarea.FechaFin,
+                Estado = tarea.Estado,
+                ProyectoNombre = proyectoNombres.ContainsKey(tarea.ProyectoID) ? proyectoNombres[tarea.ProyectoID] : null
             }).ToList();
         }
 
@@ -56,30 +74,51 @@ namespace Application.Services
         {
             var tareas = await _tareasRepository.GetByIdAsync(id);
 
-            TareasViewModel vm = new();
-            vm.Id = tareas.Id;
-            vm.Nombre = tareas.Nombre;
-            vm.Descripcion = tareas.Descripcion;
-            vm.FechaInicio = tareas.FechaInicio;
-            vm.FechaFin = tareas.FechaFin;
-            vm.Estado = tareas.Estado;
-            vm.ProyectoNombre = tareas.Proyecto.Nombre;
+
+            if (tareas == null)
+            {
+                // Manejar el caso donde la tarea no existe
+                throw new Exception("La tarea especificada no existe.");
+            }
+
+            // Obtener el nombre del proyecto asociado a la tarea
+            string nombreProyecto = await _proyectosRepository.GetProyectoNombreByTareaIdAsync(id);
+
+            TareasViewModel vm = new TareasViewModel
+            {
+                Id = tareas.Id,
+                Nombre = tareas.Nombre,
+                Descripcion = tareas.Descripcion,
+                FechaInicio = tareas.FechaInicio,
+                FechaFin = tareas.FechaFin,
+                Estado = tareas.Estado,
+                ProyectoNombre = nombreProyecto
+            };
 
             return vm;
         }
 
         public async Task UpdateAsync(SaveTareasViewModel vm)
         {
-            Tareas tareas = new();
-            tareas.Id = vm.Id;
-            tareas.Nombre = vm.Nombre;
-            tareas.Descripcion = vm.Descripcion;
-            tareas.FechaInicio = vm.FechaInicio;
-            tareas.FechaFin = vm.FechaFin;
-            tareas.Estado = vm.Estado;
-            tareas.ProyectoID = vm.ProyectoID;
+            // Obtener la tarea existente desde la base de datos
+            var tareaExistente = await _tareasRepository.GetByIdAsync(vm.Id);
 
-            await _tareasRepository.UpdateAsync(tareas);
+            if (tareaExistente == null)
+            {
+                // Manejar el caso en el que la tarea no existe
+                throw new Exception("La tarea no existe.");
+            }
+
+            // Actualizar las propiedades de la tarea existente
+            tareaExistente.Nombre = vm.Nombre;
+            tareaExistente.Descripcion = vm.Descripcion;
+            tareaExistente.FechaInicio = vm.FechaInicio;
+            tareaExistente.FechaFin = vm.FechaFin;
+            tareaExistente.Estado = vm.Estado;
+            tareaExistente.ProyectoID = vm.ProyectoID;
+
+            // Marcar la entidad como modificada y guardar los cambios
+            await _tareasRepository.UpdateAsync(tareaExistente);
         }
     }
 }

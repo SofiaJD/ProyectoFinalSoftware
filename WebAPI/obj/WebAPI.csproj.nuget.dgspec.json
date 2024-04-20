@@ -1,39 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Application\\Application.csproj": {
+    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\eliez\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Application\\obj\\",
+        "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\eliez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Domain\\Domain.csproj"
+              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj"
               }
             }
           }
@@ -42,11 +41,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -63,6 +67,22 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -81,37 +101,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Domain\\Domain.csproj": {
+    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\eliez\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Domain\\obj\\",
+        "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\eliez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -119,11 +138,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -140,43 +164,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Persistence\\Persistence.csproj": {
+    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\eliez\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Persistence\\obj\\",
+        "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\eliez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Application\\Application.csproj": {
-                "projectPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Application\\Application.csproj"
+              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj": {
+                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj"
               },
-              "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Domain\\Domain.csproj"
+              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj"
               }
             }
           }
@@ -185,11 +208,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -230,43 +258,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\eliez\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\WebAPI\\obj\\",
+        "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\eliez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Application\\Application.csproj": {
-                "projectPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Application\\Application.csproj"
+              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj": {
+                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj"
               },
-              "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Proyecto Final Software - copia\\GestionProyectosAPI\\Persistence\\Persistence.csproj"
+              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Domain\\Domain.csproj"
               }
             }
           }
@@ -275,11 +302,103 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\WebAPI\\WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\WebAPI\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj": {
+                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Application\\Application.csproj"
+              },
+              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Persistence\\Persistence.csproj"
+              },
+              "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Proyecto final TDS\\ProyectoFinalSoftware\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -319,7 +438,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

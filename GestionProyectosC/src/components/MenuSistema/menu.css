@@ -1,0 +1,154 @@
+/* Fuente */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Variables */
+:root
+{
+    --color-principal: #AB51E3;
+    --colorFondo: #FAF5FF;
+    --colorResaltado: #f3e8ff;
+    --sombra: #E3E3E3;
+}
+
+body
+{
+    font-family: 'Montserrat';
+    margin: 0;
+    background-color: var(--colorFondo);
+}
+
+#containerPrincipal
+{
+    display: grid;
+    grid-template-columns: 2fr 8fr;
+    grid-template-rows: 8vh 92vh;
+}
+
+#containerPrincipal #barra
+{
+    background-color: white;
+    grid-column: 2;
+    grid-row: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    padding: 0 30px;
+    gap: 15px;
+    box-shadow: 0 0 0 transparent;
+}
+
+#containerPrincipal #barra .material-symbols-outlined {
+    font-size: 30px;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 200,
+    'GRAD' 0,
+    'opsz' 48
+}
+
+#containerPrincipal #barra #usuario 
+{
+    display: flex;
+    flex-direction: row;
+}
+
+#containerPrincipal #barra #usuario p
+{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#containerPrincipal #barra button
+{
+    background-color: transparent;
+    border: none;
+}
+
+#containerPrincipal #menuLateral
+{
+    background-color: white;
+    grid-column: 1;
+    grid-row: 1 / span 2;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    justify-content: space-evenly;
+    padding: 20px 20px 30px 20px;
+    border-radius: 0 0 30px 0;
+    box-shadow: 0 4px 40px var(--sombra);
+}
+
+
+#containerPrincipal #menuLateral .opcion
+{
+    font-family: 'Montserrat';
+    color: black;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#containerPrincipal #menuLateral .opcion p
+{
+    margin: 8px 0;
+}
+
+#containerPrincipal #menuLateral .opcion .material-symbols-outlined {
+    font-size: 28px;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 200,
+    'GRAD' 0,
+    'opsz' 32
+}
+
+#containerPrincipal #menuLateral hr
+{
+    width: 90%;
+    margin-left: 0;
+    border: 1px solid #E9E9E9;
+}
+
+#containerPrincipal #menuLateral .opcion:last-child
+{
+    color: #E35151;
+}
+
+
+#containerPrincipal #menuLateral .opcion.active
+{
+    font-weight: 600;
+    color: var(--color-principal);    
+}
+
+#containerPrincipal #menuLateral .opcion.active .material-symbols-outlined
+{
+    font-size: 26px;
+    font-variation-settings:
+    'FILL' 1
+}
+
+#containerPrincipal #menuLateral .opcion.active#Tareas .material-symbols-outlined
+{
+    font-size: 24px;
+    font-variation-settings:
+    'FILL' 0, 
+    'wght' 600
+}
+
+#containerPrincipal #menuLateral .opcion:hover
+{
+    font-weight: 600;
+}
+
+#containerPrincipal #containerCentral 
+{
+    padding: 20px;
+}
